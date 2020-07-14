@@ -1,0 +1,11 @@
+
+port admin 0651cc2b-43a1-495e-adaa-88ec6fb01743
+ip_address='2001:df4:2d00:0:f816:3eff:feed:b2e0', subnet_id='26e9e338-419a-49d5-bf1e-6ff0bb397dcf'
+	mac : fa:16:3e:ed:b2:e0
+
+
+- Xoa port admin
+-- > --mac-address <mac_port_cu>--> tu dong lay lai ip cua port vua xoa
+port vultr
+
+53288934-e71d-4bb0-a2b2-4a6a973fbc14

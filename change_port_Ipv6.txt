@@ -1,0 +1,40 @@
+openstack server remove port 8517217b-4dab-4bd0-ad46-6e19f186a3af f1d38930-208e-49de-9491-e44a97359168
+openstack server add port 8517217b-4dab-4bd0-ad46-6e19f186a3af 092e66dc-6603-4c10-9ded-50717b4e0bad
+==============================
+
+openstack server remove port 4853a660-fafb-4a7c-8d68-47361114bab2 b786958d-0f62-4caf-8b9d-597f3167ab0a
+openstack server add port 4853a660-fafb-4a7c-8d68-47361114bab2 d2372d67-746f-4019-be56-929b199a74b9
+==============================
+
+openstack server remove port 86154af8-3677-47e8-a3c6-53ecdf463239 ac35d3d2-47ec-4780-b832-1b5ffde75338
+openstack server add port 86154af8-3677-47e8-a3c6-53ecdf463239 89535e45-38c0-4f2b-9e38-dbfc8bc91dcd
+==============================
+
+openstack server remove port f02ea28f-a812-46ae-b8bf-04caa510fd48 619027c9-8fab-4a52-8cc5-a1df777eaaae
+openstack server add port f02ea28f-a812-46ae-b8bf-04caa510fd48 a666855d-fe65-4057-9399-51745f136bf4
+==============================
+
+openstack server remove port 7f9f8206-baa9-4b67-8bbc-14bac7807bcf 4a8b5e14-107e-41ce-9ada-a5cb41198a87
+openstack server add port 7f9f8206-baa9-4b67-8bbc-14bac7807bcf 04dac1fd-85b9-4609-80b0-a18da39d28b4
+==============================
+
+openstack server remove port e3ca9513-ee47-4a3f-8a09-9c5989aba270 04720e51-1307-4419-9264-5e9b1cf9ac83
+openstack server add port e3ca9513-ee47-4a3f-8a09-9c5989aba270 0bc6aabb-ee9e-4aaa-8616-374879f1e82d
+==============================
+
+openstack server remove port 0f5a75d0-31d0-4275-bb8c-3b08ad99436e fa759000-cebb-4b0c-aebc-deec94a78770
+openstack server add port 0f5a75d0-31d0-4275-bb8c-3b08ad99436e 502c14df-a601-41fb-a3bb-92c9a3494796
+==============================
+
+openstack server remove port 9a8219cf-43c3-4a4c-a08c-b6d459d38213 d0f9d975-7432-46b7-b7b7-f4a51fcdf9a6
+openstack server add port 9a8219cf-43c3-4a4c-a08c-b6d459d38213 617bea17-54c5-4275-8546-bb93ecdbb544
+==============================
+
+openstack port delete f1d38930-208e-49de-9491-e44a97359168 
+openstack port delete b786958d-0f62-4caf-8b9d-597f3167ab0a
+openstack port delete ac35d3d2-47ec-4780-b832-1b5ffde75338
+openstack port delete 619027c9-8fab-4a52-8cc5-a1df777eaaae
+openstack port delete 4a8b5e14-107e-41ce-9ada-a5cb41198a87
+openstack port delete 04720e51-1307-4419-9264-5e9b1cf9ac83
+openstack port delete fa759000-cebb-4b0c-aebc-deec94a78770
+openstack port delete d0f9d975-7432-46b7-b7b7-f4a51fcdf9a6
