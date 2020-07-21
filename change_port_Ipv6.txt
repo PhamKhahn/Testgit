@@ -30,6 +30,8 @@ openstack server remove port 9a8219cf-43c3-4a4c-a08c-b6d459d38213 d0f9d975-7432-
 openstack server add port 9a8219cf-43c3-4a4c-a08c-b6d459d38213 617bea17-54c5-4275-8546-bb93ecdbb544
 ==============================
 
+Pham QUoc JKhanh
+
 openstack port delete f1d38930-208e-49de-9491-e44a97359168 
 openstack port delete b786958d-0f62-4caf-8b9d-597f3167ab0a
 openstack port delete ac35d3d2-47ec-4780-b832-1b5ffde75338
